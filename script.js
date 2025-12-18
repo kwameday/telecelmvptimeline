@@ -34,7 +34,7 @@ detail:"After the Week 7 peak, Week 8 maintained strong transactional momentum. 
 {id:"w9",label:"Week 9",range:"Dec 15–19",title:"Pilot Closeout: Rewards, Resilience & Highest GMV",tagClass:"closeout",tagLabel:"Closeout",
 metrics:[{label:"GMV",value:"GHC 3,561"},{label:"Transactions",value:"77 (75 successful)"},{label:"Milestone",value:"Top 10 users rewarded (Dec 16)"}],
 highlight:"Closing week reinforced engagement via recognition, while still delivering perfect success rates despite reduced staff presence.",
-detail:"Top users were rewarded on Dec 16, strengthening goodwill and encouraging future retention. Even with many staff on annual leave and fewer departments on-site, the pilot still recorded meaningful activity and a 100% success rate—an encouraging end-state for the pilot phase."}
+detail:"Top users were rewarded on Dec 16, strengthening goodwill and encouraging future retention. Even with many staff on annual leave and fewer departments on-site, the pilot still recorded highest GMV completed—an encouraging end-state for the pilot phase."}
 ];
 
 function createTimelineAxis(){
