@@ -28,11 +28,11 @@ metrics:[{label:"GMV",value:"GHC 3,155"},{label:"Transactions",value:"78 (76 suc
 highlight:"Week 7 delivered the highest combined weekly transaction volume, demonstrating sustained demand and operational confidence.",
 detail:"With an average of 26 orders per active pilot day, this week validated that the marketplace can consistently handle higher throughput. It signals readiness for a broader staff cohort rollout and additional merchant onboarding without proportional increases in field support."},
 {id:"w8",label:"Week 8",range:"Dec 8–12",title:"Sustained Demand at High GMV Levels",tagClass:"growth",tagLabel:"Sustain",
-metrics:[{label:"GMV",value:"GHC 3,072"},{label:"Transactions",value:"70 (67 successful)"},{label:"Rank",value:"3rd highest GMV"}],
+metrics:[{label:"GMV",value:"GHC 3,072"},{label:"Transactions",value:"70 (67 successful)"},{label:"Rank",value:"4th highest GMV"}],
 highlight:"Week 8 reinforced repeatable performance—remaining among the top weeks for both GMV and volume.",
 detail:"After the Week 7 peak, Week 8 maintained strong transactional momentum. This consistency is an important signal for investors and leadership: growth is not purely ‘event-driven’ but can be sustained through routine usage once users and merchants internalize the flow."},
-{id:"w9",label:"Week 9",range:"Dec 15–19",title:"Pilot Closeout: Rewards, Resilience & 100% Success",tagClass:"closeout",tagLabel:"Closeout",
-metrics:[{label:"GMV",value:"GHC 2,275"},{label:"Transactions",value:"48 (48 successful)"},{label:"Milestone",value:"Top 10 users rewarded (Dec 16)"}],
+{id:"w9",label:"Week 9",range:"Dec 15–19",title:"Pilot Closeout: Rewards, Resilience & Highest GMV",tagClass:"closeout",tagLabel:"Closeout",
+metrics:[{label:"GMV",value:"GHC 3,561"},{label:"Transactions",value:"77 (75 successful)"},{label:"Milestone",value:"Top 10 users rewarded (Dec 16)"}],
 highlight:"Closing week reinforced engagement via recognition, while still delivering perfect success rates despite reduced staff presence.",
 detail:"Top users were rewarded on Dec 16, strengthening goodwill and encouraging future retention. Even with many staff on annual leave and fewer departments on-site, the pilot still recorded meaningful activity and a 100% success rate—an encouraging end-state for the pilot phase."}
 ];
